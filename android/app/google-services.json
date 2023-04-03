@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517879774693",
+    "project_id": "try-make-diplom",
+    "storage_bucket": "try-make-diplom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517879774693:android:50878c6028b413ad64430c",
+        "android_client_info": {
+          "package_name": "com.example.try_make_diplom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517879774693-9refadnse88mm98j4buvkv44rpeirnfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkN8VYVOsK6xIbxI0wPQ_y1-ItP97vC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517879774693-9refadnse88mm98j4buvkv44rpeirnfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
